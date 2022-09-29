@@ -6,8 +6,4 @@ Fernando Benítez
 Tobias Monier
 Maximiliano Fagnano
 Cintia S.R. Lescano
-Julian Moyano
-Guadalupe Gonzalez
-Taborda Juan Pablo
-Laura Poggio
-Gonzalo Nahuel Duarte
+Giuliana Muller
